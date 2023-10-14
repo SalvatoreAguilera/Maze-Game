@@ -18,3 +18,4 @@ The program initiates with a 6x6 maze.
 Optionally, you can choose to customize the maze by inputting your own grid.
 The program visualizes and executes DFS to find a path from the starting point to the exit.
 The result is displayed, indicating whether a path was found.
+![Screenshot (43)](https://github.com/SalvatoreAguilera/Maze-Game/assets/143650500/b891b3a8-9477-4810-a757-133d6ef8f073)
